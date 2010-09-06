@@ -1,0 +1,23 @@
+application: crypt-it
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /CryptIt.css
+  static_files: CryptIt.css
+  upload: CryptIt.css
+
+- url: /cryptit
+  static_dir: cryptit
+
+- url: /CryptIt.html
+  static_files: CryptIt.html
+  upload: CryptIt.html
+
+- url: /.*
+  static_files: CryptIt.html
+  upload: CryptIt.html
+
+#- url: /main.py
+#  script: main.py

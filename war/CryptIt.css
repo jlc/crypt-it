@@ -1,0 +1,80 @@
+/* CryptIt.css */
+
+.App_flagImg {
+	margin-left: 10px;
+}
+
+.App_logoPanel {
+	margin: 5px 0px 0px 0px;
+	float: left;
+}
+
+.App_flagPanel {
+	margin: 5px 5px 0px 0px;
+	float: right;
+}
+
+.App_tabPanel {
+	margin: 30px 30px 30px 30px;
+	clear: both;
+}
+
+.App_emailLabel {
+	margin: 0px 5px 0px 0px;
+	float: right;
+}
+
+.App_panel {
+}
+
+.CipherPanel_pwdInfoError {
+	color: red;
+}
+
+.CipherPanel_pwdWidget {
+	margin-right: 15px;
+}
+
+.CipherPanel_inputWidget {
+	margin-top: 10px;
+}
+
+.CipherPanel_button {
+	width: 100px;
+}
+
+.CipherPanel_pwdPanel {
+	margin: 10px 10px 0px 10px;
+}
+
+.CipherPanel_inputPanel {
+	margin: 10px 10px 0px 10px;
+}
+
+.CipherPanel_buttonPanel {
+	margin: 20px 10px 0px 10px;
+}
+
+.CipherPanel_panel {
+}
+
+.OptionPanel_block {
+	display: block;
+}
+
+.OptionPanel_cipherPanel {
+	margin: 5px 0px 10px 0px;
+}
+
+.OptionPanel_outputPanel {
+	margin: 5px 0px 10px 0px;
+}
+
+.OutputDialogBox_outputArea {
+	margin: 10px 10px 10px 10px;
+}
+
+.OutputDialogBox_closeButton {
+	width: 100px;
+}
+
